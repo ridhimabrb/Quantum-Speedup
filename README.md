@@ -1,5 +1,5 @@
 ## Quantum Speedup for Minimum Steiner Tree
-I carried out a research on the Steiner Tree Problem, and NP-Hard problem, and the quantum algorithm which incorporated Grover's Search along with Dynamic Programming is found to have the <b>best time complexity. </b>
+I carried out a research on the Steiner Tree Problem, an NP-Hard problem, and the quantum algorithm which incorporated Grover's Search along with Dynamic Programming is found to have the <b>best time complexity. </b>
 O(1.812^k) where k is the number of terminals. 
 
 This is the demo implementation of the same using Qiskit library, although the full algorithm has not been implemented anywhere publicly.
